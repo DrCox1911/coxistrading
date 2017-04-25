@@ -1,0 +1,5 @@
+name=Coxis Trading
+poster=poster.png
+id=CoxisTrading
+require=CoxisUtil
+description=Trade with other players in MP.

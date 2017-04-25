@@ -1,0 +1,17 @@
+UI_DE = {
+	UI_CoxisTrading_ContextTrade = "Trade",
+	UI_UICoxisTrading_WindowTitle = "Coxis Trading",
+	UI_CoxisTrading_TradeWindow = "Trade with player",
+	UI_CoxisTrading_You = "You",
+	UI_CoxisTrading_TradingPartner = "Tradingpartner",
+	UI_CoxisTrading_YourInventory = "Your inventory",
+	UI_CoxisTrading_YourProposal = "Your proposed items",
+	UI_CoxisTrading_PartnerProposal = "Tradingpartner proposed items",
+	UI_CoxisTrading_AcceptDeal = "Accept",
+	UI_CoxisTrading_DeclineDeal = "Decline",
+	UI_CoxisTrading_YouAccepted = "You accepted the deal",
+	UI_CoxisTrading_YouDeclined = "You declined the deal",
+	UI_CoxisTrading_PartnerAccepted = "Your tradingpartner accepted",
+	UI_CoxisTrading_PartnerDeclined = "Your tradingpartner declined",
+	UI_CoxisTrading_PartnerQuit = "Your tradingpartner quit"
+}
